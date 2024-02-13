@@ -1,0 +1,51 @@
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a{
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 20px;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  color: aliceblue;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.button{
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+}
+#grey{
+  background-color: grey;
+}
+#white{
+  background-color: whitesmoke;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
